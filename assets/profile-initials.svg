@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 280 280" role="img" aria-labelledby="title description">
+  <title id="title">Hongxin Wang initials</title>
+  <desc id="description">White letters H W on an abstract deep navy, teal, and ocean-blue geometric badge.</desc>
+  <rect x="5" y="5" width="270" height="270" rx="28" fill="#05283a"/>
+  <path d="M170 5h105v115L210 82z" fill="#43d4ca"/>
+  <path d="M5 205l72-72 82 142H33a28 28 0 0 1-28-28z" fill="#0a6074"/>
+  <rect x="222" y="220" width="53" height="55" fill="#1c7097"/>
+  <path d="M37 226h142" fill="none" stroke="#d4e7ea" stroke-width="4" opacity="0.75"/>
+  <text x="140" y="166" fill="#ffffff" font-family="Arial, sans-serif" font-size="82" font-weight="700" text-anchor="middle">HW</text>
+</svg>
